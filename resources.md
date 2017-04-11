@@ -16,3 +16,8 @@ Once I have finished a few I shall mention them. Still prefer the Lynda courses 
 ## Facebook Groups
 1. [Newbie Coder Warehouse](https://www.facebook.com/groups/1594816820775537)<br />
   If it wasn't for this group I would not have learned about the #100DaysOfCode challenge. Very useful group to get links to free tutorials, resources, as well as, experiences from other newbie coders.
+
+## Contents
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
+* [Resources](resources.md)
