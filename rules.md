@@ -14,7 +14,7 @@ If you can't push your code to GitHub for some reason (e.g. if you're only start
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge, unless of course, they are interactive exercises like mentioned above.
 
-## Contents
+## Contents of this repo
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [Resources](resources.md)
