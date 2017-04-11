@@ -7,4 +7,4 @@
 
 **Thoughts:** Github can be scary when you are not used to it. So doing this challenge will help me understand it better. Bootstrap is quite easy to use. It is just a matter of learning the different classes and where to put them. Helps that I know how to use CSS and HTML well.
 
-**Link to tweet:** [Tweet](http://www.example.com)
+**Link to tweet:** [Tweet](https://twitter.com/havefuncreating/status/851769641764573185)
