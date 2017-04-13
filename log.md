@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 3: 13th April 2017 
+##### Starting a new website
+
+**Today's Progress**: I set up a new website called 'My Labradors'. I am using what I have learned of Boostrap and I intend to use CSS animations.
+
+**Thoughts:** Very happy to start creating a website, I enjoy coding. And the subject matter that I chose is perfect. A fun website about my doggies.
+
+**Link to tweet:** [Day 3](https://twitter.com/havefuncreating/status/852581455448485888)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 2: 12th April 2017 
 ##### Finishing Bootstrap Training
 
