@@ -8,6 +8,8 @@
 **Thoughts:** Very happy to start creating a website, I enjoy coding. And the subject matter that I chose is perfect. A fun website about my doggies.
 
 **Link to tweet:** [Day 3](https://twitter.com/havefuncreating/status/852581455448485888)
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com/)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
