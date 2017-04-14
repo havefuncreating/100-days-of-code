@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 4: 14th April 2017 
+##### Working on the Labrador website
+
+**Today's Progress**: Been working further on the navigation of the website and adding carousel to the front page.
+
+**Thoughts:** Feel comfortable using bootstrap. However, I do find it limiting with colour choices. So still have to write my own CSS to get a site as I want it.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com/)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 3: 13th April 2017 
 ##### Starting a new website
 
@@ -7,9 +18,7 @@
 
 **Thoughts:** Very happy to start creating a website, I enjoy coding. And the subject matter that I chose is perfect. A fun website about my doggies.
 
-**Link to tweet:** [Day 3](https://twitter.com/havefuncreating/status/852581455448485888)
 **Link to website:** [My Labradors](http://mylabradors.luciasegura.com/)
-
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
