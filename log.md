@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: 15th April 2017 
+##### Working on the Labrador website
+
+**Today's Progress**: Decided to change my mind about carousel images and instead I shall add a card style. Life has got on the way but I did manage to code for a little while
+
+**Thoughts:** Happy with the progress I am doing.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com/)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 4: 14th April 2017 
 ##### Working on the Labrador website
 
