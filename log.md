@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 7: 17th April 2017 
+##### Practiced jQuery
+
+**Today's Progress**: Wanted to do something different so I started jQuery section of FreeCodeCamp.
+
+**Thoughts:** I'm not sure about the hours it says I'm suppose to take. FreeCodeCamp says it takes 3 hours to do the jQuery section and I managed it in less than 1hour. Not sure how on earth you take 3 hours to do?!?
+
+**Link to profile:** [FreeCodeCamp](https://www.freecodecamp.com/havefuncreating)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+### Day 6: 16th April 2017 
+##### Missed today
+
+**Today's Progress**: Easter Sunday and family stuff took over the whole day.
+
+**Thoughts:** I know I missed a day, but not overall upset. I know I'm making great progress.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 5: 15th April 2017 
 ##### Working on the Labrador website
 
