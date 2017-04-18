@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8: 18th April 2017 
+##### Developed more of the labrador website
+
+**Today's Progress**: I developed more of the website. Also, added the Animate.css to give the pages a dynamic look.
+
+**Thoughts:** Very happy with the progress, spent most of the time planning and editing images for the site. Bootstrap is really easy to use. Animate is also super easy, this will add some funky animations to my pages.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com/index.html)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 7: 17th April 2017 
 ##### Practiced jQuery
 
