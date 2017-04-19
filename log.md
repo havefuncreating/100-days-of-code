@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: 19th April 2017 
+##### Practised JavaScript
+
+**Today's Progress**: Today I decided to start the FreeCodeCamp JavaScript section
+
+**Thoughts:** Going through the challenges quickly. I do love the way FreeCodeCamp teaches you by making you do things. I have watched a few JavaScript tutorials and nothing beats practise!
+
+**Link to profile:** [FreeCodeCamp](https://www.freecodecamp.com/havefuncreating)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 8: 18th April 2017 
 ##### Developed more of the labrador website
 
