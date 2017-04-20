@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10: 20th April 2017 
+##### Worked on the Labrador website
+
+**Today's Progress**: I worked on the Labrador website, adding the timeline to Rosie's page with a pop up window that will show images
+
+**Thoughts:** Has been a lot of trial and error today. Still cannot get one thing to look right. Have asked 'the internet' will see what can other people suggest. Other than that, I am pleased how it is coming along.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 9: 19th April 2017 
 ##### Practised JavaScript
 
