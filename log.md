@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 11: 21st April 2017 
+##### Worked on the Labrador website and did some JavaScript Training
+
+**Today's Progress**: I worked on the Labrador website. Only a little bit of coding
+
+**Thoughts:** I have a lot of images to edit for the website, so that took most of my available time. I did a little of JavaScript training on FreeCodeCamp in order to make up the lost coding time.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+**Link to profile:** [FreeCodeCamp](https://www.freecodecamp.com/havefuncreating)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 10: 20th April 2017 
 ##### Worked on the Labrador website
 
