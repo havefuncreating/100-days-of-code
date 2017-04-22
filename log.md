@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 12: 22nd April 2017 
+##### Worked on the Labrador website
+
+**Today's Progress**: I worked on the Labrador website.
+
+**Thoughts:** Finding frustrating a certain feature I want to do for the site and cannot get it to work. I think I will take a break from it. Add all the images I want to add and then play with features later.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+**Link to profile:** [FreeCodeCamp](https://www.freecodecamp.com/havefuncreating)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 11: 21st April 2017 
 ##### Worked on the Labrador website and did some JavaScript Training
 
