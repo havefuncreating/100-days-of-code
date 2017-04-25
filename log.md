@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### PAUSED 
+
+**Thoughts:** I know I am not supposed to stop. But decorating a house in time for sale has taken over. Plus normal life as well. I have to prioritize at the moment.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 12: 22nd April 2017 
 ##### Worked on the Labrador website
 
