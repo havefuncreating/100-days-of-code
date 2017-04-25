@@ -1,8 +1,38 @@
 # 100 Days Of Code - Log
 
-### PAUSED 
+### Day 15: 25th April 2017 
+##### Labrador Website
 
-**Thoughts:** I know I am not supposed to stop. But decorating a house in time for sale has taken over. Plus normal life as well. I have to prioritize at the moment.
+**Today's Progress**: Worked on the Labrador website
+
+**Thoughts:** Decided to change the timeline of the dogs to simple card layouts. I think it will make it look a lot better and more dynamic. Still trying to fix the centering of the cards. Frustrating, but need to give it a break and re-cap tomorrow with a more clear mind.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com/rosie.html)
+**Link to profile:** [FreeCodeCamp](https://www.freecodecamp.com/havefuncreating)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+### Day 14: 24th April 2017 
+##### JavaScript
+
+**Today's Progress**: A tiny amount of JavaScript practice with FreeCodeCamp
+
+**Thoughts:** and I really mean tiny... I was busy decorating the houuse.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+**Link to profile:** [FreeCodeCamp](https://www.freecodecamp.com/havefuncreating)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+### Day 13: 23rd April 2017 
+##### Nothing
+
+**Today's Progress**: Nothing
+
+**Thoughts:** Was not at home until late so no practice today
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+**Link to profile:** [FreeCodeCamp](https://www.freecodecamp.com/havefuncreating)
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
