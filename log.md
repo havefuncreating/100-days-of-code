@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: 26th April 2017 
+##### Labrador Website
+
+**Today's Progress**: Worked on the Labrador website
+
+**Thoughts:** I changed the dogs' pages again... this time I am 100% happy with the look. So finished Rosie's page and moved on to Luther's page. Need to edit more photos.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com/rosie.html)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 15: 25th April 2017 
 ##### Labrador Website
 
