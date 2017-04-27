@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 17: 27th April 2017 
+##### Labrador Website
+
+**Today's Progress**: Worked on the Labrador website
+
+**Thoughts:** Now the Rosie and Luther page templates are done, I have been editing photos. Populating the website.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 16: 26th April 2017 
 ##### Labrador Website
 
