@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 18: 28th April 2017 
+##### Labrador Website
+
+**Today's Progress**: Worked on the Labrador website
+
+**Thoughts:** Decided to change the front page. I am finding that although Bootstrap saves time in coding. It really does not have everything. You still have to do a lot yourself. Sometimes it is faster if you just code it yourself!
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 17: 27th April 2017 
 ##### Labrador Website
 
