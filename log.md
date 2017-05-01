@@ -5,6 +5,28 @@
 
 **Today's Progress**: Worked on the Labrador website
 
+**Thoughts:** Resolving how I want the Puppies page to look. I have videos to link and hundreds of puppy pictures. So I must cut down on what to show. 
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+### Day 20: 30th April 2017 
+##### Life
+
+**Today's Progress**: Nothing
+
+**Thoughts:** Busy with life today 
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+### Day 19: 29th April 2017 
+##### Labrador Website
+
+**Today's Progress**: Worked on the Labrador website
+
 **Thoughts:** Designers can be picky... and I am one hell of a picky designer. I changed pages yet again as I was not happy how images were looking. So re-coded the pages so all images fill the available space. Coded the index page and changed the jumbotron boxes so it suits how I want it. I will stop now... I want to move on to the puppies and the dog's life pages. 
 
 **Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
