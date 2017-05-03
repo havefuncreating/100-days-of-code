@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 23: 3rd May 2017 
+##### Atom
+
+**Today's Progress**: Deleted Dreamweaver, downloaded Atom
+
+**Thoughts:** Really fed up with Adobe Dreamweaver, the developer mode. Although looks great it is just not perfect and it keeps going wrong. So downloaded Atom and spent the day playing with it and learning how to use it. So no code day per se, but will make my workflow better and faster.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+### Day 22: 2nd May 2017 
+##### Life
+
+**Today's Progress**: Nothing
+
+**Thoughts:** Busy with life today 
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 21: 1st May 2017 
 ##### Labrador Website
 
