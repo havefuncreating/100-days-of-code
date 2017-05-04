@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 24: 4th May 2017 
+##### Atom/Git/Github
+
+**Today's Progress**: Learning
+
+**Thoughts:** Today I finished learning and setting up my Atom how I want it. I also took some time to learn more about Git and Github. I also spent some time looking at online courses to see which ones to do next. Going through freeCodeCamp, and although it is good, I feel I need to find another and go through it. Sometimes getting a different perspective helps. Also learned what React actually is. I had no idea. Now I am even more keen on mastering JavaScript, moving to React and Node.js.  
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 23: 3rd May 2017 
 ##### Atom
 
