@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 25: 5th May 2017 
+##### Labrador Website
+
+**Today's Progress**: Learning/re-designing
+
+**Thoughts:** After yesterday, I spent some time reading a website template I got for free from the plethora of stock websites. I wanted to see how the developer managed to create certain behaviours. This just proved to me, that the best way to learn is to read someone else's code. I know video tutorials help but nothing beats practice. For my labrador website I want to put certain animations that are triggered by the mouse scrolling. And now I know how to achieve this. Therefore, spent some time re-designing the pages to something that will suit this new feature. Now I feel like I am making progress.
+
+As a side issue, saw that Microsoft are doing the Learning Challenge. I signed up for the Web Developer one. The first video was very good to watch. The second tutorial has taught me that I am most certainly not a beginner anymore. I know HTML5 and CSS3, time to stop thinking I am only starting out on those! And by the way, I still find Lynda.com tutorials better for learning.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 24: 4th May 2017 
 ##### Atom/Git/Github
 
