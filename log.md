@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 27: 7th May 2017 
+##### MVA Training
+
+**Today's Progress**: Learning
+
+**Thoughts:** Same as yesterday. Watching the MVA Training Tutorials. They are rather easy and to be honest, I am only watching them so I can get a certification for it. I do not believe this is one of the best tutorials out there.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+### Day 26: 6th May 2017 
+##### MVA Training
+
+**Today's Progress**: Learning
+
+**Thoughts:** Watching the MVA Training Tutorials. They are rather easy and to be honest, I am only watching them so I can get a certification for it.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 25: 5th May 2017 
 ##### Labrador Website
 
