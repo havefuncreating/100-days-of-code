@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 28: 8th May 2017 
+##### freeCodeCamp
+
+**Today's Progress**: Learning JavaScript
+
+**Thoughts:** Today I decided to continue on the JavaScript lessons of FFC. I enjoy these lessons as they truly give you a practical understanding of the code.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 27: 7th May 2017 
 ##### MVA Training
 
