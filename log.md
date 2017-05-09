@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 29: 9th May 2017 
+##### freeCodeCamp
+
+**Today's Progress**: Learning JavaScript
+
+**Thoughts:** Super pleased with myself, finished the Basic JavaScript section of freeCodeCamp!
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 28: 8th May 2017 
 ##### freeCodeCamp
 
