@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 30: 10th May 2017 
+##### freeCodeCamp
+
+**Today's Progress**: New Beta freeCodeCamp curriculum
+
+**Thoughts:** Today I decided to do the beta version of the new freeCodeCamp curriculum. It is better laid out providing certifications for every different level of subjects. I only did about 5 hours today and I nearly finished the Responsive Web Design. It has an interesting section about Accessibility which was useful to go through. I prefer this new curriculum.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 29: 9th May 2017 
 ##### freeCodeCamp
 
