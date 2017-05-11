@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 31: 11th May 2017 
+##### freeCodeCamp
+
+**Today's Progress**: I finished the Responsive Web Design of freeCodeCamp
+
+**Thoughts:** Today I finished the first section of the new curriculum of the freeCodeCamp. So I started doing the Tribute page. Very pleased with the page, tomorrow I shall make it responsive. 
+
+**Link to website:** [Joseph Campbell Tribute Page](http://www.luciasegura.com/campbell.html)
+
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ### Day 30: 10th May 2017 
 ##### freeCodeCamp
