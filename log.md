@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 32: 12th May 2017 
+##### freeCodeCamp Tribute Page
+
+**Today's Progress**: I finished the Tribute Page
+
+**Thoughts:** Feels good to finish a project. I have done one of the tasks for freeCodeCamp. Very pleased with the results. 
+
+**Link to website:** [Joseph Campbell Tribute Page](http://www.luciasegura.com/campbell.html)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 31: 11th May 2017 
 ##### freeCodeCamp
 
