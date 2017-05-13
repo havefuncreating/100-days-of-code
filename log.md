@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 33: 13th May 2017 
+##### Labrador Website
+
+**Today's Progress**: Today I have been re-designing the Labrador website
+
+**Thoughts:** Having found some incredibly useful repos on Github, I decided to re-design my Labrador website. Today I worked on the Home page and you can now get animations that only start as you scroll.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 32: 12th May 2017 
 ##### freeCodeCamp Tribute Page
 
