@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 35: 15th May 2017 
+##### Labrador Website
+
+**Today's Progress**: Today I have been re-designing the Labrador website
+
+**Thoughts:** Been working on the Rosie page.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+### Day 34: 14th May 2017 
+##### Life
+
+**Today's Progress**: Nothing
+
+**Thoughts:** Busy with life today 
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 33: 13th May 2017 
 ##### Labrador Website
 
