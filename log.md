@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 36: 16th May 2017 
+##### Labrador Website
+
+**Today's Progress**: Today I have been re-designing the Labrador website
+
+**Thoughts:** Been working on the Luther Page
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 35: 15th May 2017 
 ##### Labrador Website
 
