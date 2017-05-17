@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 37: 17th May 2017 
+##### Labrador Website
+
+**Today's Progress**: I have been working on the Labrador website
+
+**Thoughts:** Been working on the Puppies and the Dog's Life page. Also editing more photos for the pages.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 36: 16th May 2017 
 ##### Labrador Website
 
