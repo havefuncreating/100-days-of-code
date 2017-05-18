@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 38: 18th May 2017 
+##### Labrador Website
+
+**Today's Progress**: I have been working on the Labrador website
+
+**Thoughts:** Been working on the Puppies... finished!
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 37: 17th May 2017 
 ##### Labrador Website
 
