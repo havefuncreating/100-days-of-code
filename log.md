@@ -5,6 +5,17 @@
 
 **Today's Progress**: I have been working on the Labrador website
 
+**Thoughts:** Not had much time today, but I managed to add a 'back to top' button from a repo I found online. Though it was designed with bootstrap 3 in mind I am using Bootstrap 4. SO had to tweak it.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+### Day 38: 18th May 2017 
+##### Labrador Website
+
+**Today's Progress**: I have been working on the Labrador website
+
 **Thoughts:** Been working on the Puppies... finished!
 
 **Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
