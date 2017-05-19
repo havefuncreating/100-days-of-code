@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 38: 18th May 2017 
+### Day 39: 19th May 2017 
 ##### Labrador Website
 
 **Today's Progress**: I have been working on the Labrador website
