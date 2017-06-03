@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### AWAY ON HOLIDAY...
+##### Will resume normal coding practice on my return
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### Day 39: 19th May 2017 
 ##### Labrador Website
 
