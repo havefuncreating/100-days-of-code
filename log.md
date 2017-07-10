@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 40: 10th July 2017 
+##### Labrador Website
+
+**Today's Progress**: I have been working on the Labrador website
+
+**Thoughts:** Been coding for a few weeks but had forgotten about this 100 days of code. Today I finally finished the Labrador website. My self indulgent site for my babies.
+
+**Link to website:** [My Labradors](http://mylabradors.luciasegura.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ### AWAY ON HOLIDAY...
 ##### Will resume normal coding practice on my return
 
